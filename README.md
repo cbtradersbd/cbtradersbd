@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://t.me/+R_kEsY9yqkA1NDI1"><img src="https://img.shields.io/badge/Official_Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" /></a>
   <a href="https://t.me/YouKnowWho_am"><img src="https://img.shields.io/badge/Direct_Developer_Chat-@YouKnowWho__am-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Direct Telegram" /></a>
-  <a href="https://api1.api.cbtraderbd.xyz/docs"><img src="https://img.shields.io/badge/Live_Interactive_Swagger-FastAPI_Docs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Live Docs" /></a>
+  <a href="https://api1.api.cbtradersbd.com/docs"><img src="https://img.shields.io/badge/Live_Interactive_Swagger-FastAPI_Docs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Live Docs" /></a>
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ We provide complete, fully unlocked source code packages, personal API keys, and
 
 [![Telegram](https://img.shields.io/badge/Chat_Directly_on_Telegram-@YouKnowWho__am-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YouKnowWho_am)
 [![Channel](https://img.shields.io/badge/Join_Official_Telegram_Channel-CB_Traders_BD-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+R_kEsY9yqkA1NDI1)
-[![Swagger](https://img.shields.io/badge/Explore_Live_Swagger_Endpoints-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://api1.api.cbtraderbd.xyz/docs)
+[![Swagger](https://img.shields.io/badge/Explore_Live_Swagger_Endpoints-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://api1.api.cbtradersbd.com/docs)
 
 <br/>
 
